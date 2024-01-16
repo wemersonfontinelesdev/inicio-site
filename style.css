@@ -1,0 +1,39 @@
+body{
+    background: #d2d2c1;
+    font-family: 16px Arial, Helvetica, sans-serif;
+}
+img{
+    width: 900px;
+    height:400px ;
+}
+#principal{
+    /*border: 1px solid red;*/
+    width: 900px;
+    height: 500px;
+    margin: auto;
+    
+}
+#menu{
+    background: #c5c5b2;
+    padding: 18px; /*espaçamento interno*/
+    text-align: center;
+}
+a{
+   color: #4b566a; 
+   text-decoration: none; /*remover o anderline*/
+   font-weight: bold; /*tipo de letra, mas ver o que é*/
+   /*border: 1px solid red; colocar uma bordar em volta do link*/
+   padding: 5px; /*espaçamento do link e borda*/
+
+}
+#conteudo{
+    background: #e8e8d9;
+   padding: 20px;
+
+}
+.centralizar{
+    text-align: center; /*veja ela em prática*/
+}
+#nome{
+    text-align: center;
+}
